@@ -1,2 +1,2 @@
 # Data-Structure-Python
-Builing data structure in Python
+Builing data structures in Python
